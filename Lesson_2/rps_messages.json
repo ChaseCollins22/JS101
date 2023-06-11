@@ -1,0 +1,10 @@
+{
+  "playAgain": "Do you want to play again (y/n)?",
+  "playAgainInvalid": "Please enter \"y\" or \"n\".",
+  "userChoiceInvalid": "That's not a valid choice",
+  "userWins": "You win!",
+  "computerWins": "Computer wins!",
+  "userIsChampion": "User is the champion!",
+  "computerIsChampion": "Computer is the champion!",
+  "tie": "It's a tie!"
+}
